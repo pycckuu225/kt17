@@ -86,7 +86,7 @@
             // pictureBox1
             // 
             this.pictureBox1.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.pictureBox1.BackgroundImage = global::WindowsFormsApp6.Properties.Resources.gif;
+            this.pictureBox1.BackgroundImage = global::WindowsFormsApp6.Properties.Resources.noch;
             this.pictureBox1.Location = new System.Drawing.Point(-2, 12);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(1135, 694);

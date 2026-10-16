@@ -63,9 +63,9 @@ namespace WindowsFormsApp6.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap _1_13b07b8a {
+        internal static System.Drawing.Bitmap kolledzh {
             get {
-                object obj = ResourceManager.GetObject("1_13b07b8a", resourceCulture);
+                object obj = ResourceManager.GetObject("kolledzh", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -73,9 +73,9 @@ namespace WindowsFormsApp6.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap _24_main {
+        internal static System.Drawing.Bitmap metro1 {
             get {
-                object obj = ResourceManager.GetObject("24_main", resourceCulture);
+                object obj = ResourceManager.GetObject("metro1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -83,9 +83,9 @@ namespace WindowsFormsApp6.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Animation_Pixel_Art_GIF_by_braindead_gif {
+        internal static System.Drawing.Bitmap metro2 {
             get {
-                object obj = ResourceManager.GetObject("Animation Pixel Art GIF by braindead.gif", resourceCulture);
+                object obj = ResourceManager.GetObject("metro2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -93,9 +93,9 @@ namespace WindowsFormsApp6.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap gif {
+        internal static System.Drawing.Bitmap noch {
             get {
-                object obj = ResourceManager.GetObject("gif", resourceCulture);
+                object obj = ResourceManager.GetObject("noch", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -103,9 +103,9 @@ namespace WindowsFormsApp6.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap gif__1_ {
+        internal static System.Drawing.Bitmap work1 {
             get {
-                object obj = ResourceManager.GetObject("gif (1)", resourceCulture);
+                object obj = ResourceManager.GetObject("work1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -113,9 +113,9 @@ namespace WindowsFormsApp6.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap IThub_school_6 {
+        internal static System.Drawing.Bitmap zakat {
             get {
-                object obj = ResourceManager.GetObject("IThub-school-6", resourceCulture);
+                object obj = ResourceManager.GetObject("zakat", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

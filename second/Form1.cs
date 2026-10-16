@@ -44,27 +44,27 @@ namespace WindowsFormsApp6
 
             if (min < 4)
             {
-                pictureBox1.BackgroundImage = Properties.Resources.gif;
+                pictureBox1.BackgroundImage = Properties.Resources.noch;
             }
             else if (min < 8)
             {
-                pictureBox1.BackgroundImage = Properties.Resources._1_13b07b8a;
+                pictureBox1.BackgroundImage = Properties.Resources.metro1;
             }
             else if (min < 15)
             {
-                pictureBox1.BackgroundImage = Properties.Resources.IThub_school_6;
+                pictureBox1.BackgroundImage = Properties.Resources.kolledzh;
             }
             else if (min < 18)
             {
-                pictureBox1.BackgroundImage = Properties.Resources._24_main;
+                pictureBox1.BackgroundImage = Properties.Resources.work1;
             }
             else if (min < 20)
             {
-                pictureBox1.BackgroundImage = Properties.Resources.gif__1_;
+                pictureBox1.BackgroundImage = Properties.Resources.metro2;
             }
             else
             {
-                pictureBox1.BackgroundImage = Properties.Resources.gif;
+                pictureBox1.BackgroundImage = Properties.Resources.zakat;
             }
         }
 

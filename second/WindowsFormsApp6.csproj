@@ -82,22 +82,12 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\gif.gif" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Animation Pixel Art GIF by braindead.gif.gif" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\1_13b07b8a.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\IThub-school-6.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\24_main.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\gif %281%29.gif" />
+    <None Include="Resources\kolledzh.jpg" />
+    <None Include="Resources\metro1.jpg" />
+    <None Include="Resources\metro2.jpg" />
+    <None Include="Resources\noch.jpg" />
+    <None Include="Resources\work1.jpg" />
+    <None Include="Resources\zakat.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -118,22 +118,22 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="gif" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\gif.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="kolledzh" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kolledzh.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Animation Pixel Art GIF by braindead.gif" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Animation Pixel Art GIF by braindead.gif.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="metro1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\metro1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="1_13b07b8a" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\1_13b07b8a.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="metro2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\metro2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="IThub-school-6" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\IThub-school-6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="noch" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\noch.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="24_main" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\24_main.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="work1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\work1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="gif (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\gif (1).gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="zakat" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\zakat.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
