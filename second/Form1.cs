@@ -22,7 +22,11 @@ namespace WindowsFormsApp6
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            timer1.Interval = 1000;
             timer1.Start();
+            button1.Text = "Stop";
+            button1.BackColor = Color.Red;
+            button2.Text = "Ускорить";
         }
 
         private void timer1_Tick(object sender, EventArgs e)
@@ -87,9 +91,18 @@ namespace WindowsFormsApp6
 
         private void button2_Click(object sender, EventArgs e)
         {
-            timer1.Interval = 1;
-            button2.Text = "Ускорить";
-            button2.BackColor = SystemColors.Control;
+            if (timer1.Interval == 1000)
+            {
+                timer1.Interval = 100;
+                button2.Text = "Обычная скорость";
+                button2.BackColor = Color.Orange;
+            }
+            else
+            {
+                timer1.Interval = 1000;
+                button2.Text = "Ускорить";
+                button2.BackColor = SystemColors.Control;
+            }
         }
     }
 }
